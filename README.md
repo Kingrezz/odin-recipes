@@ -1,1 +1,2 @@
 # odin-recipes
+What i learned is to take my time but also be very descriptive with my work and also comment on work i think will confuse me if i ever come back to this one day. i learned how to use "git add" "git commit -m " ( need to know why the -m is used again) and "get push origin main" if i have other respos the "origin main" might change when i use git push but as of yet i dont have other repos. i learn to always use alt when using <img src=> because its a description of the pictures for other applications.
